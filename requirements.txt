@@ -1,0 +1,5 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+openai==0.27.0
+httpx==0.24.0  # Optional, for asynchronous HTTP requests
+pytest==7.2.0  # Optional, for testing
